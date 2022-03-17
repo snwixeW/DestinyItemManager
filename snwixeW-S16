@@ -2,8 +2,12 @@ title:snwixeW's Season 16 DIM Wish List
 description:Maximus#0001  https://discord.gg/gHTcvfyffq
 
 // Duty Bound
-dimwishlist:item=435216110,3400784728,1354429876#notes:Triple Tap Fourth Time's The Charm
-//notes:Good 3rd and 4th Perk Combinations
+
+//notes:Interesting 3rd and 4th Perk Combination
+dimwishlist:item=435216110,3400784728,1354429876
+dimwishlist:item=435216110,1583705720,4049631843
+
+//notes:Good 3rd and 4th Perk Combination
 dimwishlist:item=435216110,3400784728,3425386926
 dimwishlist:item=435216110,3400784728,4104185692
 dimwishlist:item=435216110,3400784728,1546637391
@@ -11,9 +15,24 @@ dimwishlist:item=435216110,1428297954,3425386926
 dimwishlist:item=435216110,1428297954,4104185692
 dimwishlist:item=435216110,1428297954,1546637391
 
+//notes:Bad 3rd Perk
+dimwishlist:item=-435216110,509074078
+dimwishlist:item=-435216110,1583705720
+dimwishlist:item=-435216110,2387244414
+dimwishlist:item=-435216110,671806388
+
+//notes:Bad 4th Perk
+dimwishlist:item=-435216110,4049631843
+dimwishlist:item=-435216110,1359896290
+
+
 // Duty Bound (Adept)
-dimwishlist:item=1135050595,3400784728,1354429876#notes:Triple Tap Fourth Time's The Charm
-//notes:Good 3rd and 4th Perk Combinations
+
+//notes:Interesting 3rd and 4th Perk Combination
+dimwishlist:item=1135050595,3400784728,1354429876
+dimwishlist:item=1135050595,1583705720,4049631843
+
+//notes:Good 3rd and 4th Perk Combination
 dimwishlist:item=1135050595,3400784728,3425386926
 dimwishlist:item=1135050595,3400784728,4104185692
 dimwishlist:item=1135050595,3400784728,1546637391
@@ -21,7 +40,12 @@ dimwishlist:item=1135050595,1428297954,3425386926
 dimwishlist:item=1135050595,1428297954,4104185692
 dimwishlist:item=1135050595,1428297954,1546637391
 
-// Deafening Whisper
-dimwishlist:item=981718087,3300816228#notes:Auto-loading Holster
-//notes:Good Perks
-dimwishlist:item=981718087,3425386926
+//notes:Bad 3rd Perk
+dimwishlist:item=-1135050595,509074078
+dimwishlist:item=-1135050595,1583705720
+dimwishlist:item=-1135050595,2387244414
+dimwishlist:item=-1135050595,671806388
+
+//notes:Bad 4th Perk
+dimwishlist:item=-1135050595,4049631843
+dimwishlist:item=-1135050595,1359896290
